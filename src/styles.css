@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.jumbotron{
+    margin-bottom: 0;
+}
+
+.card-header{
+    border-bottom: 1px solid rgba(232, 236, 241, 1);
+}
+
+.fontvar {
+    font-variant: small-caps;
+}
